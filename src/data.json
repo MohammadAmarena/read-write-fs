@@ -1,0 +1,210 @@
+{
+  "logo": "Elithair Logo",
+  "menu": {
+    "items": [
+      "Treatments",
+      "Techniques",
+      "Before and After",
+      "Prices",
+      "About Us",
+      "Blog",
+      "Shop",
+      "Contact",
+      "Free Consultation"
+    ],
+    "language": "en"
+  },
+  "banner": {
+    "title": "Experience the Best Hair Transplant in Turkey With Elithair",
+    "description": "Dr Balwi and his medical team are on hand to welcome you to Istanbul in order to help you regain your lost hair!",
+    "stats": {
+      "clinicSize": "Biggest hair loss clinic in the world",
+      "hotelRooms": "68 Elit-Hotel rooms in the clinic",
+      "ratings": "7,800+ positive ratings",
+      "recommendationRate": "99% Recommendation rate",
+      "exclusivePreparation": "Exclusive NEOFUE® preparation",
+      "freeAnalysis": {
+        "duration": "Duration: 2 minutes only"
+      },
+      "doctorImage": "portrai Dr. Balwi in the hair loss clinic",
+      "doctorSignature": "image of Dr Balwi's signature",
+      "googleRatingIcon": "google rating icon",
+      "newspaperIcons": {
+        "metro": "Icons for the Metro newspaper",
+        "express": "Icons for the Express newspaper"
+      },
+      "beforeAfterImages": "Hair Surgery - See the Before & After Results of Our Patients"
+    }
+  },
+  "whyHairTransplant": {
+    "title": "Why Get a Hair Transplant in Istanbul, Turkey?",
+    "thumbnailImage": "Thumbnail Elithair image video for hair transplant in Turkeypause play icon",
+    "description": "Are you suffering from hereditary hair loss, a receding hairline or insufficient beard growth? Then a hair surgery in Istanbul is your solution to permanently resolve those baldness issues.\n\nIn most cases, hair loss is genetic and can therefore be treated. At Elithair, you will be looked after by accomplished specialists during your hair transplant in Turkey, who only use the latest techniques such as the DHI method.\n\nThe country on the Bosphorus is the best place to go for professional hair treatments and above all impresses with its in-depth expertise and high-quality standard.",
+    "freeAnalysis": {
+      "title": "Free Hair Analysis",
+      "description": "Finally a Permanent Solution for Your Hair Loss!",
+      "doctorImage": "Image of Dr. Balwi performing hair analysis",
+      "methods": [
+        "Hair Transplant",
+        "Hair Transplant for Women",
+        "Beard Transplant",
+        "Eyebrow transplant",
+        "PRP Treatment"
+      ]
+    }
+  },
+  "aboutDoctor": {
+    "title": "Dr Balwi",
+    "description": "Meet Our Lead Doctor at Elithair",
+    "doctorImage": "Image of Dr. Balwi and a few members of his team in Turkey",
+    "goals": "To provide the highest quality and flawless final results – those are Dr Balwi’s goals as the leading doctor of our clinic in Istanbul.\n\nHaving himself suffered from hair loss, he is able to perfectly understand our patient’s needs. He is also renowned for innovations like the NEO FUE and the SDHI Technique that are exclusive to Elithair.\n\nThanks to his many years of experience, he is proud to provide renewed hair growth and improved confidence to our patients."
+  },
+  "hairAnalysisSteps": {
+    "title": "Hair Analysis in 3 Steps",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Step 1: Online Consultation",
+        "description": "Fill out our online consultation form and provide us with necessary information about your hair loss condition and medical history. Our experts will review your information and determine the best course of action for your hair transplant in Turkey."
+      },
+      {
+        "stepNumber": 2,
+        "title": "Step 2: Personalized Treatment Plan",
+        "description": "Based on the information you provide, our experts will create a personalized treatment plan tailored to your specific needs. This plan will outline the recommended hair transplant technique, number of grafts, and other relevant details."
+      },
+      {
+        "stepNumber": 3,
+        "title": "Step 3: In-Person Consultation in Istanbul",
+        "description": "Once your personalized treatment plan is ready, we will arrange an in-person consultation with Dr. Balwi at our clinic in Istanbul. During this consultation, Dr. Balwi will examine your hair and scalp, answer any questions you may have, and finalize the treatment plan."
+      }
+    ]
+  },
+  "hairTransplantTechniques": {
+    "title": "Hair Transplant Techniques at Elithair",
+    "techniques": [
+      {
+        "name": "NEO FUE Technique",
+        "description": "The NEO FUE technique is an exclusive innovation of Elithair. It combines the advantages of the traditional FUE method with additional features that optimize the hair transplant process. With NEO FUE, you can expect minimal scarring, faster healing, and natural-looking results."
+      },
+      {
+        "name": "DHI Technique",
+        "description": "The DHI technique, also known as Direct Hair Implantation or Choi Implanter Pen technique, involves the direct implantation of hair follicles without the need for recipient site creation beforehand. This technique ensures maximum precision, density, and natural results."
+      },
+      {
+        "name": "SDHI Technique",
+        "description": "The SDHI technique, also developed exclusively by Elithair, stands for Superior DHI and combines the benefits of the DHI technique with advanced technology for even better results. It allows for higher hair density and precise placement of grafts, ensuring a natural and aesthetically pleasing hairline."
+      }
+    ]
+  },
+  "beforeAfterGallery": {
+    "title": "Before and After Hair Transplant Results",
+    "description": "Take a look at the impressive transformations our patients have achieved through hair transplant at Elithair. These before and after photos showcase the natural-looking results and restored hairlines that can be achieved with our advanced techniques and expert medical team.",
+    "images": [
+      "Image 1",
+      "Image 2",
+      "Image 3",
+      "Image 4",
+      "Image 5"
+    ]
+  },
+  "prices": {
+    "title": "Hair Transplant Prices at Elithair",
+    "description": "At Elithair, we offer transparent and competitive prices for our hair transplant procedures. The cost of your hair transplant will depend on factors such as the technique used, the number of grafts required, and any additional treatments or services. Contact us for a personalized quote based on your specific needs.",
+    "packages": [
+      {
+        "name": "Basic Package",
+        "description": "Includes the hair transplant procedure using the chosen technique and a dedicated medical team.",
+        "price": "Starting from $2,500"
+      },
+      {
+        "name": "Premium Package",
+        "description": "Includes the hair transplant procedure using the chosen technique, a dedicated medical team, accommodation in our Elit-Hotel rooms, and airport transfers.",
+        "price": "Starting from $3,500"
+      },
+      {
+        "name": "VIP Package",
+        "description": "Includes the hair transplant procedure using the chosen technique, a dedicated medical team, accommodation in our luxury suite, VIP airport transfers, and a personal assistant.",
+        "price": "Starting from $5,000"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Elithair for a Hair Transplant in Turkey",
+    "description": "If you're ready to take the next step toward restoring your hair and regaining your confidence, contact Elithair to schedule a consultation or request more information. Our friendly team is here to answer your questions and assist you throughout the process.",
+    "phone": "+90 123 456 789",
+    "email": "info@elithairtransplant.com",
+    "address": "123 Hair Transplant Street, Istanbul, Turkey"
+  },
+  "patients": [
+    {
+      "id": "f59f875f-675d-48da-8b09-a4491441e71a",
+      "name": "John Smith",
+      "age": 35,
+      "gender": "Male",
+      "email": "johnsmith@example.com",
+      "phone": "+1 123-456-7890",
+      "hairLossStage": "Norwood Scale 3",
+      "beforeImage": "john_smith_before.jpg",
+      "afterImage": "john_smith_after.jpg",
+      "comments": "Interested in the DHI technique",
+      "password": "johnsmithpassword",
+      "registerCode": "abc123"
+    },
+    {
+      "id": "a51febe5-c8c3-4e18-b84e-16d089709e31",
+      "name": "John Smith",
+      "age": 35,
+      "gender": "male",
+      "email": "johnsmith@example.com",
+      "phone": "+1 123-456-7890",
+      "hairLossStage": "Norwood Scale 3",
+      "beforeImage": "john_smith_before.jpg",
+      "afterImage": "",
+      "comments": "",
+      "password": "johnsmithpassword",
+      "registerCode": "abc123"
+    },
+    {
+      "id": "79a2eebc-6d95-40fb-9df7-2d7a9a5dc7b4",
+      "name": "Emily Johnson",
+      "age": 28,
+      "gender": "Female",
+      "email": "emilyjohnson@example.com",
+      "phone": "+1 987-654-3210",
+      "hairLossStage": "Ludwig Scale 2",
+      "beforeImage": "emily_johnson_before.jpg",
+      "afterImage": "emily_johnson_after.jpg",
+      "comments": "Considering the NEO FUE technique",
+      "password": "emilyjohnsonpassword",
+      "registerCode": "abc123"
+    },
+    {
+      "id": "0fdaf154-703e-4aee-b9e0-f8f2c5285f73",
+      "name": "Michael Davis",
+      "age": 42,
+      "gender": "Male",
+      "email": "michaeldavis@example.com",
+      "phone": "+1 555-123-4567",
+      "hairLossStage": "Norwood Scale 5",
+      "beforeImage": "michael_davis_before.jpg",
+      "afterImage": "michael_davis_after.jpg",
+      "comments": "",
+      "password": "michaeldavispassword",
+      "registerCode": "abc123"
+    },
+    {
+      "id": "2d27c3e2-2f06-4c84-b8f7-ec5304272592",
+      "name": "Mohammad",
+      "age": 33,
+      "gender": "male",
+      "email": "michaeldavis@example.com",
+      "phone": "+49 1234567890",
+      "hairLossStage": "Norwood Scale 5",
+      "beforeImage": "michael_davis_before.jpg",
+      "afterImage": "michael_davis_after.jpg",
+      "comments": "Interested in the SDHI technique",
+      "password": "$2b$10$owHL2zpKF8RUK/aKktcRvetTgX3PVIWEreFhBGKT3nRxyZUDVLZre",
+      "registerCode": "$2b$10$yL.0hZKcIb0V1CLbrurKqeFwLLkEzG1CrYpBq3gN6D9qJpOZDggt6"
+    }
+  ]
+}

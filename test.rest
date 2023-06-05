@@ -1,0 +1,28 @@
+@url = http://localhost:3000
+
+### Get all data
+GET {{url}}
+
+### Get all patients
+GET {{url}}/patients
+
+### Get patient
+GET {{url}}/patients/f59f875f-675d-48da-8b09-a4491441e71a
+
+### Create patient
+POST {{url}}/patients
+Content-Type: application/json
+
+{
+  "name": "Mohammad",
+  "age": 33,
+  "gender": "male",
+  "email": "michaeldavis@example.com",
+  "phone": "+49 1234567890",
+  "hairLossStage": "Norwood Scale 5",
+  "beforeImage": "michael_davis_before.jpg",
+  "afterImage": "michael_davis_after.jpg",
+  "comments": "Interested in the SDHI technique",
+  "password": "password123",
+  "registerCode": "abc123"
+}
